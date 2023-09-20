@@ -15,9 +15,6 @@ Release: [Homepage](https://chuanzhaohuang.github.io//)
 To build a personal website to introducing myself, my hobbies and my homepage.
 
 
-### Design Mockup:
-[DesignDoc](https://github.com/wyang10/wyang10.github.io/blob/main/Design%20Doc-wy.pdf)
-
 ### Preview:
 <img width="1270" alt="Preview1" src="https://github.com/chuanzhaohuang/chuanzhaohuang.github.io/assets/122564637/aac0216c-8db0-4a94-8b6b-b18878d4bcf6">
 <img width="1270" alt="Preview2" src="https://github.com/chuanzhaohuang/chuanzhaohuang.github.io/assets/122564637/f284c955-e719-4b54-a0cd-66a8e43775a4">
