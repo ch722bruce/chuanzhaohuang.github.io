@@ -4,9 +4,14 @@
   "description": "A Website About Myself",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "npx eslint src scripts",
+    "lint:fix": "npx eslint src scripts --fix",
+    "lint:create": "npx eslint --init"
   },
   "keywords": [],
   "author": "Chuanzhao Huang",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.49.0"
+  }
 }
