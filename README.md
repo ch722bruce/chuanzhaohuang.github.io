@@ -3,7 +3,7 @@
 #### [chuanzhaohuang.github.io/](https://chuanzhaohuang.github.io//) 
 Based on JavaScript, CSS, HTML, and Bootstrap v5.2.1.                                                                           
 CS 5610 Web Development:  [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)                         
-Northeastern University Bay Area                                                    
+Northeastern University San Jose                                                    
 Instructor: John Alexis Guerra Gómez                                                                                          
  
 
