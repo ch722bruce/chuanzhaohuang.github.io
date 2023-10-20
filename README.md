@@ -24,6 +24,7 @@ To build a personal website to introducing myself, my hobbies and my homepage.
 
 
 ### Demonstration:
+[Mockup](https://www.figma.com/file/3CBuhQroA04TEXeF2gTMFC/Untitled?type=design&node-id=0%3A1&mode=design&t=Syy9nthkFvnkF0If-1)
 [Video](https://youtu.be/zVgd_8pFHbw)                                                                              
 [Slides](https://docs.google.com/presentation/d/1B_COgG-O8x2Ttgt6jvcWRFUiyijY9c_MYN9przTtLfg/edit?usp=sharing)
 
