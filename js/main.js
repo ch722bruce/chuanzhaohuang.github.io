@@ -90,16 +90,6 @@
       window.addEventListener("load", headerScrolled);
       onscroll(document, headerScrolled);
     }
-  
-   
-  
 
-  
-
-  
-    /**
-     * Initiate Pure Counter
-     */
-    new PureCounter();
   })();
   
